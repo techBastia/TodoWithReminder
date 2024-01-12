@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TodoWithReminder/static/js/main.ce26e0bf.js",
+    "index.html": "/TodoWithReminder/index.html",
+    "main.ce26e0bf.js.map": "/TodoWithReminder/static/js/main.ce26e0bf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ce26e0bf.js"
+  ]
+}
