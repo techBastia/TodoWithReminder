@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .main-wrap {
+    display: flex !important;
+    background: #197ed27a;
+    align-items: center;
+    justify-content: center !important;
+    width: 100vw;
+    height: 100vh;
+  }
+  .main-wrap .inner-div{    
+    flex-direction: column;
+    width: 30vw !important;
+    height: 100vh;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 1px 1px 9px 2px #ccccccf7;
+  }
+  .main-wrap .inner-div .heading {
+    color: #197ed27a;
+  }
+
+  .main-wrap .inner-div .form .form-input{
+    margin: 0 20px;
+  }
+
+  .main-wrap .inner-div .dataLists{
+    float: left;
+    width: 280px;
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  .delBtn {
+    float: right;
+    margin-right: 10px !important;
+    margin-top: 10px !important;
+  }
